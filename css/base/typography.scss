@@ -1,0 +1,22 @@
+$font: 'Manrope', sans-serif;
+$lightCyan: hsl(193, 38%, 86%);
+$neonGreen: hsl(150, 100%, 66%);
+
+body {
+    font-family: $font;
+    font-weight: 800;
+}
+
+.card-title {
+    color: $neonGreen;
+    letter-spacing: 5px;
+    font-size: 13px;
+    margin-bottom: 40px;
+}
+
+.card-text {
+    font-size: 28px;
+    color: $lightCyan;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
