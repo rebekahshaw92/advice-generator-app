@@ -53,7 +53,7 @@ Users should be able to:
 
 ### What I Learned
 
-While unertaking this project I learned how to fetch an api in JavaScript using fetch and then using the json response to display the infromtion to the html DOM.
+While undertaking this project I learned how to fetch an api in JavaScript using fetch and then using the json response to display the infromtion to the html DOM.
 
 ### Continued Development 
 
